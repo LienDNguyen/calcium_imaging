@@ -1,0 +1,5 @@
+# ignore ipython notebook checkpoint files
+.ipynb_checkpoints/
+
+# ignore excel data files
+*.xlsx
