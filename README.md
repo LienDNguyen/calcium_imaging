@@ -1,5 +1,5 @@
 # Calcium Imaging Analysis Notebook
-Ehrlich lab Ca^(2+) imaging analysis code.
+Ehrlich lab Ca2+ imaging analysis code.
 
 ---
 Published under the MIT license.
