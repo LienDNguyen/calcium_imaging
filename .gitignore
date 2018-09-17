@@ -6,3 +6,6 @@ assets/
 
 # ignore excel data files
 *.xlsx
+
+# exclude cached python3 files
+__pycache__
