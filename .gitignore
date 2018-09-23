@@ -1,5 +1,7 @@
 # ignore ipython notebook checkpoint files
+# and macOS metadata files
 .ipynb_checkpoints/
+.DS_Store
 
 # ignore assets folder
 assets/
