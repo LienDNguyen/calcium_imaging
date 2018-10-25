@@ -1,5 +1,5 @@
 #!/Library/Frameworks/Python.framework/Versions/3.7/bin/python3
-# this snippets takes about 2 mins to complete
+# this snippet takes about 2 mins to complete
 # since the data file is pretty large (too many rows)
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -41,4 +41,5 @@ plot_with_range(
     title="Plot with Limited x Axis")
 
 # save the plot to the ./assets folder
-plt.savefig("limited_range_plot.png")
+print("saving plot...")
+plt.savefig("limited_range_plot.png", bbox_inches='tight')
